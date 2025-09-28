@@ -54,4 +54,4 @@ Video will be recorded
 
 Reports will be added in 
 
-✅ Reports saved in the reports/ folder.
+✅ Reports saved in the reports/ folder.# SportyUIAutomation
